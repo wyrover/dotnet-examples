@@ -1,0 +1,10 @@
+# Ignore bin and obj folders
+bin/
+obj/
+
+# Ignore user settings file
+*.user
+
+# Ignore Visual Studio temporary files
+*.suo
+*.userprefs
